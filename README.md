@@ -3,4 +3,4 @@ Quick html5 canvas game loop demo
 
 ## run
 
-  https://raul.viigipuu.ee/gameloop-snake/
+https://raul.viigipuu.ee/gameloop-snake/
